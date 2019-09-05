@@ -1,1 +1,1 @@
-# Repository used for image saving 
+# Repository used for saving images.
